@@ -1,0 +1,15 @@
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\bin\Debug\DeviceInfo.exe.config
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\bin\Debug\DeviceInfo.exe
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\bin\Debug\DeviceInfo.pdb
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\DeviceInfo.csprojResolveAssemblyReference.cache
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\MainWindow.baml
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\MainWindow.g.cs
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\App.g.cs
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\DeviceInfo_MarkupCompile.cache
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\DeviceInfo.g.resources
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\DeviceInfo.Properties.Resources.resources
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\DeviceInfo.csproj.GenerateResource.Cache
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\DeviceInfo.exe
+c:\users\trung96x1\documents\visual studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\DeviceInfo.pdb
+C:\Users\Trung96x1\Documents\Visual Studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Trung96x1\Documents\Visual Studio 2013\Projects\DeviceInfo\DeviceInfo\obj\Debug\DeviceInfo_MarkupCompile.lref
